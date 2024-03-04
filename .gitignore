@@ -1,0 +1,5 @@
+.DS_Store
+code/.pio
+code/.vscode
+schematic/mini-proj-backups/*
+schematic/fp-info-cache

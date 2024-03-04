@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c4fcda09-a2ab-41c8-9882-3a8615ab77e6)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Mini Project 1" (at 186.69 190.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 17aab8ab-2b93-41ff-b5b8-2e28be975bba)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
